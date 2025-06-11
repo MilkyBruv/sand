@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        ".tsx": "xml",
+        "graphics.h": "c",
+        "macros.h": "c",
+        "glfw3.h": "c",
+        "usr_macros.h": "c",
+        "allegro.h": "c"
+    }
+}
