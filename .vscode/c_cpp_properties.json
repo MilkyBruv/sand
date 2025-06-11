@@ -4,7 +4,9 @@
             "name": "Linux",
             "includePath": [
                 "${workspaceFolder}/**",
-                "${workspaceFolder}/lib/include"
+                "${workspaceFolder}/lib/include",
+                "C:\\msys64\\mingw64\\include",
+                "C:\\usr-headers"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/clang",
